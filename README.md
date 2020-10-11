@@ -24,7 +24,7 @@
 <li>JQuery</li>
 
 <h1>Editor</h1>
-🆚Code
+🆚Code Editor
 
 <h1>Deployment</h1>✔️GITHUB
 

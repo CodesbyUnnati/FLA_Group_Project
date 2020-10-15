@@ -15,6 +15,7 @@
 <li>It tells you about the basics Of Automata</li>
 <li>It helps you practice your numericals</li>
 <li>It gives you information about JFlap</li>
+<li>NFA to DFA code conversion was also implemented but we were not able to integrate it with backend</li>
 
 <h1>Tech Stack Used</h1>
 <li>HTML5</li>
